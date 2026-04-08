@@ -14,3 +14,5 @@ HTML5, Bootstrap 5, JavaScript
 
 ## Repositorio
 https://github.com/tu-usuario/weather-frontend-m2
+
+Proyecto realizado para el Módulo 2 de Frontend.
