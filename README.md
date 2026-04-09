@@ -13,6 +13,6 @@ Aplicación frontend de clima (MVP).
 HTML5, Bootstrap 5, JavaScript
 
 ## Repositorio
-https://github.com/tu-usuario/weather-frontend-m2
+https://github.com/jemimavarbel-oss/weather-frontend-m2.git
 
 Proyecto realizado para el Módulo 2 de Frontend.
